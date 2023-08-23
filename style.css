@@ -15,6 +15,15 @@
 	justify-content:center;
 	align-items:center;
 }
+.backpic{
+	background-image:url('https://wallpapers.com/images/hd/4k-ultra-hd-sky-wallpaper-and-background-image-9tx93wzcazaih94b.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-position:absolute;
+	min-height:600px;
+	flex-shrink:1;
+}
 h1
 {
 margin:auto;
