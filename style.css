@@ -43,16 +43,18 @@ a:hover{
 }
 
 .second p{
-	border:gray 2px solid;
+	border:gray 3px solid;
 	border-left:50%;
 	font-size:110%;
 	width:50%;
+	background-color:whitesmoke;
 }
 .third P{
-	border:gray 2px solid;
+	border:gray 3px solid;
 	border-left:50%;
 	font-size:110%;
 	width:50%;
+	background-color:whitesmoke;
 }
 .third img{
 	height:8%;
@@ -68,10 +70,11 @@ a:hover{
 	color:hotpink;
 }
 .fourth p{
-	border:gray 2px solid;
+	border:gray 3px solid;
 	border-left:50%;
 	font-size:110%;
 	width:50%;
+	background-color:whitesmoke;
 }
 .fourth a{
 	color:#381682;
@@ -80,10 +83,11 @@ a:hover{
 	color:hotpink;
 }
 .five p{
-	border:gray 2px solid;
+	border:gray 3px solid;
 	border-left:50%;
 	font-size:110%;
 	width:50%;
+	background-color:whitesmoke;
 }
 
 .five a{
@@ -93,10 +97,11 @@ a:hover{
 	color:hotpink;
 }
 .six p{
-	border:gray 2px solid;
+	border:gray 3px solid;
 	border-left:50%;
 	font-size:110%;
 	width:50%;
+	background-color:whitesmoke;
 }
 .main_block hr{
 	height:2px;
